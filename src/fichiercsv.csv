@@ -1,0 +1,12 @@
+.jpg;image/jpeg;nulle;
+.txt;text/plain;nulle;
+.sh;application/x-sh;<!DOCTYPE HTML;
+.gif;image/gif;nulle;
+.png;image/png;nulle;
+.jpeg;image/jpeg;nulle;
+.pdf;application/pdf;nulle;
+.html;text/html;#!;
+.doc;application/msword;nulle;
+.docx;application/vnd.openxmlformats-officedocument.wordprocessingml.document;nulle;
+.c;text/plain;#include;
+.csv;text/csv;nulle;
